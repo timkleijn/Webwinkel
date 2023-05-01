@@ -1,9 +1,9 @@
 {
-  "name": "webshop",
+  "name": "webwinkel",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://timkleijn.github.io/webshop",
+  "homepage": "https://timkleijn.github.io/webwinkel",
   "scripts": {
     "dev": "vite",
     "build": "vite build",

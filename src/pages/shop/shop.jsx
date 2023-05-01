@@ -18,7 +18,7 @@ export const Shop = () => {
           <div className='sm:sticky sm:top-20 p-4 w-full'>
             <img src={Cartoon} className='object-cover' />
             <div className='bg-primary bg-opacity-10'>
-              <p className='text-lg px-4 pt-4 mb-2 italic '>“In plaats van tomaten uit Zuid-Afrika, bestel ik liever de tomaten uit de kas in de buurt. Geen onnodige voedselkilometers en dus minder CO2. Buurtwinkel maakt dit mogelijk!”</p>
+              <p className='text-lg px-4 pt-4 mb-2 italic '>“Door bij Buurtwinkel te kopen weet ik precies waar mijn groenten en vlees vandaan komen. Veilige en gezonde producten van betrouwbare producenten.”</p>
               <p className='pb-4 px-4 font-bold text-lg italic'>Petra van S.</p>
               <div className='flex px-4 pb-4 justify-between'>
                 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-12 h-12 sm:w-10 sm:h-10 text-gray-700 fill-yellow-300">
